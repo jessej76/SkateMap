@@ -37,3 +37,6 @@ bower install
 grunt
 grunt serve
 ```
+We created 2 factories
+- commentfactory
+- locationfactory
