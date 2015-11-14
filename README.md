@@ -1,2 +1,2 @@
 # SkateMap
-Find skate spots in barcelona.
+Find skate spots in Barcelona.
