@@ -15,3 +15,8 @@ angular.module('skateMapApp')
       'Karma'
     ];
   });
+  $(document).ready(function(){
+
+
+      $("[data-toggle=tooltip]").tooltip();
+  });
