@@ -40,3 +40,35 @@ grunt serve
 We created 2 factories
 - commentfactory
 - locationfactory
+
+We created a schema.sql with the definition of the tables locations and comments 
+##Creating a Server
+First we installed express
+```
+npm install express
+```
+Also installed body-parser
+```
+npm install body-parser
+```
+installed md5
+```
+npm install md5
+```
+We installed the dependencies
+```
+
+{
+"name": "two-way-data-binding",
+"version": "1.0.0",
+"dependencies": {
+"express": "~4.9.2",
+"mysql": "~2.5.0"
+}
+}
+
+using
+
+npm install
+
+```

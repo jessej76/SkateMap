@@ -14,9 +14,5 @@ angular.module('skateMapApp')
       'AngularJS',
       'Karma'
     ];
-  });
-  $(document).ready(function(){
-
-
-      $("[data-toggle=tooltip]").tooltip();
-  });
+    });
+  
